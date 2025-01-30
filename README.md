@@ -1,14 +1,14 @@
 # My Manga Recommendation List!
 
-Hi I'm Eda!!! I spend a lot of time dumpster diving throught manga online and found a few I actually enjoy. I won't put stuff here that's too popular (I think). If you're confused about any term go check the [What do things mean](#What-do-things-mean) section
+Hi I'm Eda!!! I spend a lot of time dumpster diving throught manga online and found a few I actually enjoy. I won't put stuff here that's too popular (I think). If you're confused about any term go check the [What do things mean](#what-do-things-mean) section
 
 # Sections
 
- 1. [Mangas](#Mangas)
-	 - [Slop](#Slop)
-	 - [Short stuff](#Short-stuff-(You-could-read-it-in-like-5-mins))
- 2. [Anime](#Anime)
- 3. [What do things mean](#What-do-things-mean)
+ 1. [Mangas](#mangas)
+	 - [Slop](#slop)
+	 - [Short stuff](#short-stuff)
+ 2. [Anime](#anime)
+ 3. [What do things mean](#what-do-things-mean)
 
 # Mangas
 
@@ -93,7 +93,8 @@ I read this like a long time ago and I remember it being good
 [link](https://mangafire.to/manga/uchi-no-musuko-wa-tabun-gayy.4q3ko)
 
 
-## Short stuff (You could read it in like 5 mins)
+## Short stuff
+(You could read it in like 5 mins)
 
 ### The Story of a Girl Who Likes Girls, and a Girl Who Used to be a Guy ![Static Badge](https://img.shields.io/badge/Yuri-%23a11b20)
 
