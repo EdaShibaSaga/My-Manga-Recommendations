@@ -5,11 +5,12 @@ Hi I'm Eda!!! I spend a lot of time dumpster diving throught manga online and fo
 # Sections
 
  1. [Mangas](#mangas)
-  	 - [Not slop](#not-slop)
+ 
+	 - [Not slop](#not-slop)
+	 - [Slop](#Slop)
 	 - [Short stuff](#short-stuff)
-	 - [Slop](#slop)
- 2. [Anime](#anime)
- 3. [What do things mean](#what-do-things-mean)
+ 3. [Anime](#anime)
+ 4. [What do things mean](#what-do-things-mean)
 
 # Mangas
 
