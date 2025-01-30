@@ -5,12 +5,16 @@ Hi I'm Eda!!! I spend a lot of time dumpster diving throught manga online and fo
 # Sections
 
  1. [Mangas](#mangas)
+  	 - [Not slop](#not-slop)
 	 - [Slop](#slop)
 	 - [Short stuff](#short-stuff)
  2. [Anime](#anime)
  3. [What do things mean](#what-do-things-mean)
 
 # Mangas
+
+## Not slop
+Remember my taste is not the same as yours
 
 ### The Guy She Was Interested in Wasn't a Guy At All ![Static Badge](https://img.shields.io/badge/Yuri-%23a11b20)
 
@@ -179,6 +183,7 @@ Shorter list (I don't really watch anime) of stuff I watched but didn't read. Al
 ### You're under arrest ![Static Badge](https://img.shields.io/badge/Trans-%2328bd54)
 
 ![](https://media1.tenor.com/m/XnGK5CaQTt4AAAAd/ah-eto-bleh-anime.gif)
+
 Has a trans character, 50/50 she is treated like the butt of the joke and put in horrible situations or it's very real no inbetween. This other girl is from the same anime.
 
 ## Mobile Suit _Gundam_: The Witch from Mercury
