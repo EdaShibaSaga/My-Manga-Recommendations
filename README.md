@@ -5,10 +5,10 @@ Hi I'm Eda!!! I spend a lot of time dumpster diving throught manga online and fo
 # Sections
 
  1. [Mangas](#mangas)
- 
 	 - [Not slop](#not-slop)
-	 - [Slop](#Slop)
+	 - [Slop](#slop)
 	 - [Short stuff](#short-stuff)
+	 - [Old Stuff](#old-stuff)
  3. [Anime](#anime)
  4. [What do things mean](#what-do-things-mean)
 
@@ -141,11 +141,11 @@ Yuri (Bait, nothing actually happens how unexpected) Radio Station
 
 ### I'm in Love with the Villainess ![Static Badge](https://img.shields.io/badge/Yuri-%23a11b20)
 
-Vilainess yuri
+Villainess yuri
 
 [link](https://mangafire.to/manga/watashi-no-oshi-wa-akuyaku-reijouu.2ooo5)
 
-### Kyou Kara Yonshimai ![Static Badge](https://img.shields.io/badge/Trans-%2328bd54)
+### Kyou Kara Yonshimai ![Static Badge](https://img.shields.io/badge/Trans-%2328bd54)![Static Badge](https://img.shields.io/badge/Yuri-%23a11b20)![Static Badge](https://img.shields.io/badge/TW-%23211496)
 
 Trans girl comes back to live with her sisters after a long time without contact (This one is full of transphobia and has some weird stuff).
 
@@ -194,7 +194,7 @@ Gundam yuri (Don't expect yuri)
 # What do things mean
 
  - ![Static Badge](https://img.shields.io/badge/WBQA-%23eb5ee4): Written by queer author (That I know, if this tag isn't there it just means I didn't check).
- - ![Static Badge](https://img.shields.io/badge/Trans-%2328bd54): Ranges from "character that looks directly at the screen and screams "I AM TRANSGENDER" to implied they are trans. (Or just trans themes)
+ - ![Static Badge](https://img.shields.io/badge/Trans-%2328bd54): Ranges from "character that looks directly at the screen and screams "I AM TRANSGENDER" to implied they are trans. (Or just trans themes)"
  - ![Static Badge](https://img.shields.io/badge/Queer-%23edc31a): Hard to put it into a named box that is more specific
  - ![Static Badge](https://img.shields.io/badge/Yuri-%23a11b20): Girls kissing
  - ![Static Badge](https://img.shields.io/badge/TW-%23211496): Be cautious reading these, they feature heavier themes
