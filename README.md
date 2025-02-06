@@ -111,6 +111,8 @@ If you're done with everything else, and you're still hungry for more, here are 
 
 ### Otherside Picnic ![Static Badge](https://img.shields.io/badge/Yuri-%23a11b20)
 
+![](https://pbs.twimg.com/media/GjAUJ51a4AI35NO?format=jpg&name=medium)
+
 Yuri SCP Foundation
 
 [link](https://mangafire.to/manga/urasekai-picnicc.7ww31)
